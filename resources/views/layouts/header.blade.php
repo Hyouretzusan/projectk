@@ -2,10 +2,7 @@
 <div class="header">
 	<div class="container">
 		<!-- Logo -->
-		<a class="logo" href="index.html">
-			<img src="{{ asset("img/logo1-default.png") }}" alt="Logo">
-		</a>
-		<!-- End Logo -->
+
 
 
 		<!-- Toggle get grouped for better mobile display -->
