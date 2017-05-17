@@ -276,7 +276,8 @@ var App = function () {
 			jQuery('.mCustomScrollbar').mCustomScrollbar({
 				theme:"minimal",
 				scrollInertia: 200,
-				scrollEasing: "linear"
+				scrollEasing: "linear",
+				setHeight: 100
 			});
 		},
 

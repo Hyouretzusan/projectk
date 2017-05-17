@@ -23,7 +23,8 @@
 }
 .sky-form fieldset {
 	display: block;	
-	padding: 25px 30px 5px;
+	/*padding: 25px 30px 5px;*/
+	padding: 10px 10px;
 	border: none;
 	background: rgba(255,255,255,.9);
 }

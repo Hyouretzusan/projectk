@@ -3556,7 +3556,8 @@
   padding: 200px 0;
   position: relative;
   text-align: center;
-  background: url(../img/bg/18.jpg) no-repeat;
+  /*background: url(../img/bg/18.jpg) no-repeat;*/
+  background: url(../img/bg/piscinas.jpg) no-repeat;
   background-size: cover;
   background-position: center center;
 }
